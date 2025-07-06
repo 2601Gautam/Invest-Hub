@@ -1,6 +1,6 @@
 # INVESTHUB :
 
-This Stock Market Management System is a Database Management System (DBMS) designed to store and manage stock market-related data efficiently. The database includes information about stocks, users, FIIs (Foreign Institutional Investors), DIIs (Domestic Institutional Investors), IPOs, mutual funds, and more.
+This Stock Market Management System is a Database Management System (DBMS) designed to store and manage stock market-related data efficiently. The database includes information about stocks, users, FIIs (Foreign Institutional Investors), DIIs (Domestic Institutional Investors), IPOs, Mutual Funds, and more.
 
 # Key Features :
 Stock & User Data Management – Store details of stocks, investors, and institutions.
